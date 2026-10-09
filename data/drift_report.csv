@@ -1,0 +1,5 @@
+feature,psi,psi_status,ks_stat,ks_pvalue,ks_drift
+age,0.3431,significant,0.2425,0.0,True
+income,0.1445,moderate,0.1507,0.0,True
+tenure_months,0.038,stable,0.0838,0.0,True
+credit_score,0.0032,stable,0.02,0.086528,False
